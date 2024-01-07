@@ -21,6 +21,13 @@ git branch nom_branche
 git checkout nom_branche
 
 ```
+
+pour les bonnes pratiques , on va intégrer la notion de crevue de code. pour cela, on va créer une vbranche , faire des modifications,les envoyer sur le dépot distant , puis créer une pull request pour demander une revue de code.
+
+
+
+
+
 <!-- 1- creation du fichier ".git" : 
    *git init
 2- relier notre projet du bureau à celui de github :
