@@ -12,6 +12,15 @@ git remonte add origin SSH_REPO
 git add .
 git commit -m "titre du commit"
 ```
+
+## creation d'une branche
+```bash
+git checkout -b nom_branche
+autre façon de crée une branche
+git branch nom_branche 
+git checkout nom_branche
+
+```
 <!-- 1- creation du fichier ".git" : 
    *git init
 2- relier notre projet du bureau à celui de github :
