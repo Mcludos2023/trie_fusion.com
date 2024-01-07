@@ -4,6 +4,13 @@
 git init
 git remonte add origin SSH_REPO
 
+
+```
+## Rédiger un commit sur le dépôt distant
+
+```bash
+git add .
+git commit -m "titre du commit"
 ```
 <!-- 1- creation du fichier ".git" : 
    *git init
