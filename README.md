@@ -21,6 +21,13 @@ git branch nom_branche
 git checkout nom_branche
 
 ```
+## avancer dans develop
+```bash
+git puch origin main
+
+```
+
+
 <!-- 1- creation du fichier ".git" : 
    *git init
 2- relier notre projet du bureau à celui de github :
