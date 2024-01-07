@@ -28,6 +28,10 @@ git checkout nom_branche
 git puch origin main
 
 ```
+pour les bonnes pratiques , on va intégrer la notion de crevue de code. pour cela, on va créer une vbranche , faire des modifications,les envoyer sur le dépot distant , puis créer une pull request pour demander une revue de code.
+
+
+
 
 
 <!-- 1- creation du fichier ".git" : 
